@@ -1,1 +1,2 @@
 Hello, Martian!
+Hello, world!
